@@ -1,0 +1,38 @@
+{
+"kind": "calendar#event",
+ "etag": "\"3051933267440000\"",
+ "id": "r804srgek3agep7hipn71h0vbc",
+ "status": "confirmed",
+ "htmlLink": "https://www.google.com/calendar/event?eid=cjgwNHNyZ2VrM2FnZXA3aGlwbjcxaDB2YmMgbWRvamxyZXRwMHM4YWhsb2J1Y3FpNWo2Z29AZw",
+ "created": "2018-05-10T15:37:13.000Z",
+ "updated": "2018-05-10T15:37:13.720Z",
+ "description": "Movie Raazi",
+ "creator": {
+  "email": "aryan21710@gmail.com",
+  "displayName": "aryan sharma"
+ },
+ "organizer": {
+  "email": "mdojlretp0s8ahlobucqi5j6go@group.calendar.google.com",
+  "displayName": "google_api_testing",
+  "self": true
+ },
+ "start": {
+  "dateTime": "2018-05-12T02:30:00+05:30",
+  "timeZone": "GMT+05:30"
+ },
+ "end": {
+  "dateTime": "2018-05-12T05:00:30+05:30",
+  "timeZone": "GMT+05:30"
+ },
+ "iCalUID": "r804srgek3agep7hipn71h0vbc@google.com",
+ "sequence": 0,
+ "attendees": [
+  {
+   "email": "arysharma1209@gmail.com",
+   "responseStatus": "needsAction"
+  }
+ ],
+ "reminders": {
+  "useDefault": true
+ }
+}
